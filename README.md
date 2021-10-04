@@ -3,6 +3,7 @@
 ## Author
 
 [Alejandro Toro Daza](https://github.com/Skullzo)
+
 [Jonathan Fabián Páez Torres](https://github.com/jfpazto)
 
 ## License and Copyrights
