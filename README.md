@@ -1,5 +1,9 @@
 ## React Task Planner - Part 1
 
+![img](https://github.com/ieti-eci/react-task-planner-1-AlejandroToro-JonathanPaez/blob/main/img/React.png)
+
+![img](https://github.com/ieti-eci/react-task-planner-1-AlejandroToro-JonathanPaez/blob/main/img/Task%20Planner.png)
+
 ## Author
 
 [Alejandro Toro Daza](https://github.com/Skullzo)
